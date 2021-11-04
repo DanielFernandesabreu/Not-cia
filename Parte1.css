@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;}
+     h1{
+       text-align: center;
+       background-color: black;
+       color: rgb(255, 255, 255);}
+
+#menu{
+        background-color: rgb(14, 13, 12);}
+
+#munu ul li a {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;}
+
+#munu ul li a {
+    color: #FFF;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;}
+
+#munu ul li a {
+    display: inline;}
+
+#menu ul li a:hover {background-color: rgb(24, 139, 233);}
